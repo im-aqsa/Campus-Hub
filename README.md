@@ -131,23 +131,6 @@ Throughout development, debugging became an essential learning experience. I enc
 
 Overall, this project allowed me to combine everything I learned throughout CS50x, including Python, SQL, HTML, CSS, JavaScript, Flask, and database management, into one complete application. It also gave me valuable experience in organizing a larger codebase and building a project from the initial idea to the final implementation.
 
-
-## Future Improvements
-
-Although Campus Hub currently provides the core features required for managing academic activities, there are several improvements that could be added in future versions.
-
-One possible enhancement is implementing deadline reminders and notifications for upcoming assignments and important events. This would help students stay informed without manually checking the application.
-
-Another improvement would be allowing users to upload files or images with their notes, making the application more useful for storing lecture slides, PDFs, and other study materials.
-
-A calendar view could also be integrated to display assignments, classes, and important dates in a more visual and interactive way.
-
-Future versions could include attendance percentage calculations, GPA tracking, exam scheduling, and progress analytics to provide students with a more comprehensive academic management system.
-
-Additional improvements such as dark mode, profile customization, mobile optimization, email verification, password reset functionality, and cloud database support would further enhance both the user experience and the scalability of the application.
-
-Overall, Campus Hub has been designed with future expansion in mind, making it possible to introduce new features while maintaining a clean and organized project structure.
-
 ## Conclusion
 
 Campus Hub represents the successful integration of the concepts learned throughout CS50x into a practical, real-world application. Building this project allowed me to strengthen my understanding of web development, database management, user authentication, and responsive interface design.
