@@ -1,7 +1,5 @@
 # Campus Hub
 
-#### Video Demo: https://youtu.be/AFjBLHJnfxk?si=dIUzv_UYXAEADD5D
-
 #### Description:
 Campus Hub is a web-based student management application developed as my CS50x Final Project. The goal of this project is to provide university students with a single platform where they can organize their academic activities efficiently. Instead of managing subjects, notes, assignments, attendance, and timetables across different applications, Campus Hub combines all of these essential features into one simple and user-friendly interface.
 
